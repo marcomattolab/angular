@@ -1,6 +1,6 @@
 # Course Angular 2023
 
-This repository contains the code developed during the Angular course held on the [Google CLASSROOM](https://classroom.google.com/c/NTcwODg1MDc1NDU5?cjc=obynv4h).
+This repository contains the code developed during the Angular course held on the [Google CLASSROOM](https://classroom.google.com/c/NjEwNzU1NzY5Mjg1?cjc=b7prsoy).
 
 ![Angular Course](https://github.com/marcomattolab/angular/blob/main/angular-course.png)
 
